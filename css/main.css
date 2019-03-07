@@ -7,19 +7,14 @@ p {
   color: #ff4b4a;
 }
 
+h1, .rise {
+  font-family: "Rubik", sans-serif;
+  color: #fff;
+}
+
 .poem {
   text-align: left;
   max-width: 50%;
-}
-
-.author {
- visibility: hidden;
-}
-
-h1, h2 {
-  font-family: "Rubik", sans-serif;
-  color: #fff;
-  line-height: 17rem;
 }
 
 .absolute {
@@ -28,25 +23,45 @@ h1, h2 {
 }
 
 .rise {
-  visibility: hidden;
+  display: none;
+}
+
+.author {
+ display: none;
+}
+
+.yotta {
+  line-height: 10rem;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .yotta {
+    line-height: 15rem;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
 
   .rise {
-    visibility: visible;
+    display: inline-block;
   }
 
   .person {
-    visibility: hidden;
+  display: none
   }
 
   .author {
-    visibility: visible;
+    display: block;
   }
 
   .poem {
     max-width: 45%;
   }
+
+ .yotta {
+   line-height: normal;
+ }
 
 }
