@@ -1,6 +1,6 @@
 /*
   Typografier || Code released under the UNLICENSE
-  https://typografier.web-dev.tools/#0,100,1.3,1.414,0;38,110,1.4,1.500,1;60,120,1.5,1.618,1;90,130,1.5,1.618,1
+  https://typografier.web-dev.tools/#0,100,1.3,1.500,0;38,110,1,1.500,1;60,120,1,1.600,1;90,130,1,1.600,1
 */
 
 html {
@@ -171,62 +171,62 @@ menu {
 }
 
 .tenamega {
-  font-size: 45.1797rem;
-  line-height: 58.825rem;
+  font-size: 86.4976rem;
+  line-height: 112.45rem;
 }
 
 .tenakilo {
-  font-size: 31.9517rem;
-  line-height: 41.6rem;
+  font-size: 57.665rem;
+  line-height: 75.075rem;
 }
 
 .tena {
-  font-size: 22.5967rem;
-  line-height: 29.575rem;
+  font-size: 38.4434rem;
+  line-height: 50.05rem;
 }
 
 .nina {
-  font-size: 15.9807rem;
-  line-height: 20.8rem;
+  font-size: 25.6289rem;
+  line-height: 33.475rem;
 }
 
 .yotta {
-  font-size: 11.3018rem;
-  line-height: 14.95rem;
+  font-size: 17.0859rem;
+  line-height: 22.425rem;
 }
 
 .zetta {
-  font-size: 7.9928rem;
-  line-height: 10.4rem;
+  font-size: 11.3906rem;
+  line-height: 14.95rem;
 }
 
 h1,
 .exa {
-  font-size: 5.6526rem;
-  line-height: 7.475rem;
+  font-size: 7.5938rem;
+  line-height: 10.075rem;
 }
 
 h2,
 .peta {
-  font-size: 3.9976rem;
-  line-height: 5.2rem;
+  font-size: 5.0625rem;
+  line-height: 6.825rem;
 }
 
 h3,
 .tera {
-  font-size: 2.8271rem;
-  line-height: 3.9rem;
+  font-size: 3.375rem;
+  line-height: 4.55rem;
 }
 
 h4,
 .giga {
-  font-size: 1.9994rem;
-  line-height: 2.6rem;
+  font-size: 2.25rem;
+  line-height: 2.925rem;
 }
 
 h5,
 .mega {
-  font-size: 1.414rem;
+  font-size: 1.5rem;
   line-height: 1.95rem;
 }
 
@@ -240,22 +240,22 @@ textarea {
 
 small,
 .milli {
-  font-size: .7072rem;
-  line-height: 1.3rem;
+  font-size: .6667rem;
+  line-height: .975rem;
 }
 
 .micro {
-  font-size: .5002rem;
+  font-size: .4444rem;
   line-height: .65rem;
 }
 
 .nano {
-  font-size: .3537rem;
-  line-height: .65rem;
+  font-size: .2963rem;
+  line-height: .325rem;
 }
 
 .pico {
-  font-size: .2502rem;
+  font-size: .1975rem;
   line-height: .325rem;
 }
 
@@ -539,7 +539,7 @@ legend {
 
   html {
     font-size: 110%;
-    line-height: 1.4;
+    line-height: 1;
   }
 
   h1,
@@ -562,67 +562,67 @@ legend {
   table,
   caption,
   menu {
-    margin: 0 0 1.4rem;
+    margin: 0 0 1rem;
   }
 
   .tenamega {
     font-size: 86.4976rem;
-    line-height: 112.7rem;
+    line-height: 112.5rem;
   }
 
   .tenakilo {
     font-size: 57.665rem;
-    line-height: 75.25rem;
+    line-height: 75rem;
   }
 
   .tena {
     font-size: 38.4434rem;
-    line-height: 50.05rem;
+    line-height: 50rem;
   }
 
   .nina {
     font-size: 25.6289rem;
-    line-height: 33.6rem;
+    line-height: 33.5rem;
   }
 
   .yotta {
     font-size: 17.0859rem;
-    line-height: 22.4rem;
+    line-height: 22.25rem;
   }
 
   .zetta {
     font-size: 11.3906rem;
-    line-height: 15.05rem;
+    line-height: 15rem;
   }
 
   h1,
   .exa {
     font-size: 7.5938rem;
-    line-height: 10.15rem;
+    line-height: 10rem;
   }
 
   h2,
   .peta {
     font-size: 5.0625rem;
-    line-height: 6.65rem;
+    line-height: 6.75rem;
   }
 
   h3,
   .tera {
     font-size: 3.375rem;
-    line-height: 4.55rem;
+    line-height: 4.5rem;
   }
 
   h4,
   .giga {
     font-size: 2.25rem;
-    line-height: 3.15rem;
+    line-height: 3rem;
   }
 
   h5,
   .mega {
     font-size: 1.5rem;
-    line-height: 2.1rem;
+    line-height: 2rem;
   }
 
   h6,
@@ -630,28 +630,28 @@ legend {
   input,
   textarea {
     font-size: 1rem;
-    line-height: 1.4rem;
+    line-height: 1.5rem;
   }
 
   small,
   .milli {
     font-size: .6667rem;
-    line-height: 1.05rem;
+    line-height: 1rem;
   }
 
   .micro {
     font-size: .4444rem;
-    line-height: .7rem;
+    line-height: .75rem;
   }
 
   .nano {
     font-size: .2963rem;
-    line-height: .35rem;
+    line-height: .5rem;
   }
 
   .pico {
     font-size: .1975rem;
-    line-height: .35rem;
+    line-height: .25rem;
   }
 
   ul,
@@ -677,19 +677,19 @@ legend {
   }
 
   table {
-    margin-left: -.35rem;
-    margin-right: -.35rem;
-    width: calc(100% + .35rem + .35rem);
+    margin-left: -.25rem;
+    margin-right: -.25rem;
+    width: calc(100% + .25rem + .25rem);
   }
 
   input,
   option,
   select {
-    height: calc(1.4rem + .175rem + .175rem);
+    height: calc(1rem + .125rem + .125rem);
   }
 
   [type="color"] {
-    width: calc(1.4rem + .175rem + .175rem);
+    width: calc(1rem + .125rem + .125rem);
   }
 
   [type="checkbox"],
@@ -699,7 +699,7 @@ legend {
   }
 
   .push {
-    margin-bottom: 1.4rem;
+    margin-bottom: 1rem;
   }
 
   .push-none,
@@ -709,138 +709,138 @@ legend {
 
   .push-double,
   .push-2 {
-    margin-bottom: 2.8rem;
+    margin-bottom: 2rem;
   }
 
   .push-three-quarters,
   .push-3-4 {
-    margin-bottom: 1.05rem;
+    margin-bottom: .75rem;
   }
 
   .push-half,
   .push-1-2 {
-    margin-bottom: .7rem;
+    margin-bottom: .5rem;
   }
 
   .push-quarter,
   .push-1-4 {
-    margin-bottom: .35rem;
+    margin-bottom: .25rem;
   }
 
   .push-eighth,
   .push-1-8 {
-    margin-bottom: .175rem;
+    margin-bottom: .125rem;
   }
 
   .push-right-eighth,
   .push-r-1-8 {
-    margin-right: .175rem;
+    margin-right: .125rem;
   }
 
   .push-right-quarter,
   .push-r-1-4 {
-    margin-right: .35rem;
+    margin-right: .25rem;
   }
 
   .push-right-half,
   .push-r-1-2 {
-    margin-right: .7rem;
+    margin-right: .5rem;
   }
 
   .push-right-three-quarters,
   .push-r-3-4 {
-    margin-right: 1.05rem;
+    margin-right: .75rem;
   }
 
   .push-right,
   .push-r {
-    margin-right: 1.4rem;
+    margin-right: 1rem;
   }
 
   .pad-top,
   .pad-t {
-    padding-top: 1.4rem;
+    padding-top: 1rem;
   }
 
   .pad-bottom,
   .pad-b {
-    padding-bottom: 1.4rem;
+    padding-bottom: 1rem;
   }
 
   .pad-top-double,
   .pad-t-2 {
-    padding-top: 2.8rem;
+    padding-top: 2rem;
   }
 
   .pad-bottom-double,
   .pad-b-2 {
-    padding-bottom: 2.8rem;
+    padding-bottom: 2rem;
   }
 
   .pad-top-three-quarters,
   .pad-t-3-4 {
-    padding-top: 1.05rem;
+    padding-top: .75rem;
   }
 
   .pad-bottom-three-quarters,
   .pad-b-3-4 {
-    padding-bottom: 1.05rem;
+    padding-bottom: .75rem;
   }
 
   .pad-top-half,
   .pad-t-1-2 {
-    padding-top: .7rem;
+    padding-top: .5rem;
   }
 
   .pad-bottom-half,
   .pad-b-1-2 {
-    padding-bottom: .7rem;
+    padding-bottom: .5rem;
   }
 
   .pad-top-quarter,
   .pad-t-1-4 {
-    padding-top: .35rem;
+    padding-top: .25rem;
   }
 
   .pad-bottom-quarter,
   .pad-b-1-4 {
-    padding-bottom: .35rem;
+    padding-bottom: .25rem;
   }
 
   .pad-top-eighth,
   .pad-t-1-8 {
-    padding-top: .175rem;
+    padding-top: .125rem;
   }
 
   .pad-bottom-eighth,
   .pad-b-1-8 {
-    padding-bottom: .175rem;
+    padding-bottom: .125rem;
   }
 
   .island {
-    padding: 1.4rem;
+    padding: 1rem;
   }
 
   .island-double,
   .island-2 {
-    padding: 2.8rem;
+    padding: 2rem;
   }
 
   .island-three-quarters,
   .island-3-4 {
-    padding: 1.05rem;
+    padding: .75rem;
   }
 
   .island-half,
   .island-1-2 {
-    padding: .7rem;
+    padding: .5rem;
   }
 
   .island-quarter,
   .island-1-4,
   td,
   table th {
-    padding: .35rem;
+    padding: .25rem;
   }
 
   .island-eighth,
@@ -848,106 +848,106 @@ legend {
   input:not([type="checkbox"]),
   input:not([type="radio"]),
   textarea {
-    padding: .175rem;
+    padding: .125rem;
   }
 
   .gutter {
-    padding-left: 1.4rem;
-    padding-right: 1.4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .gutter-double,
   .gutter-2 {
-    padding-left: 2.8rem;
-    padding-right: 2.8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .gutter-three-quarters,
   .gutter-3-4 {
-    padding-left: 1.05rem;
-    padding-right: 1.05rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
   }
 
   .gutter-half,
   .gutter-1-2 {
-    padding-left: .7rem;
-    padding-right: .7rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
   }
 
   .gutter-quarter,
   .gutter-1-4,
   caption {
-    padding-left: .35rem;
-    padding-right: .35rem;
+    padding-left: .25rem;
+    padding-right: .25rem;
   }
 
   .gutter-eighth,
   .gutter-1-8 {
-    padding-left: .175rem;
-    padding-right: .175rem;
+    padding-left: .125rem;
+    padding-right: .125rem;
   }
 
   .i-1 {
-    height: 1.4rem;
-    width: 1.4rem;
+    height: 1rem;
+    width: 1rem;
   }
 
   .i-3-4 {
-    height: 1.05rem;
-    width: 1.05rem;
+    height: .75rem;
+    width: .75rem;
   }
 
   .i-1-2 {
-    height: .7rem;
-    width: .7rem;
+    height: .5rem;
+    width: .5rem;
   }
 
   .i-1-4 {
-    height: .35rem;
-    width: .35rem;
+    height: .25rem;
+    width: .25rem;
   }
 
   .i-1-8 {
-    height: .175rem;
-    width: .175rem;
+    height: .125rem;
+    width: .125rem;
   }
 
   .i-1-1-2,
   .i-3-2 {
-    height: 2.1rem;
-    width: 2.1rem;
+    height: 1.5rem;
+    width: 1.5rem;
   }
 
   .i-1-1-4,
   .i-5-4 {
-    height: 1.75rem;
-    width: 1.75rem;
+    height: 1.25rem;
+    width: 1.25rem;
   }
 
   .i-1-3-4,
   .i-7-4 {
-    height: 2.45rem;
-    width: 2.45rem;
+    height: 1.75rem;
+    width: 1.75rem;
   }
 
   .i-2 {
-    height: 2.8rem;
-    width: 2.8rem;
+    height: 2rem;
+    width: 2rem;
   }
 
   select {
-    padding: 0 .175rem;
+    padding: 0 .125rem;
   }
 
   fieldset {
-    padding: .35rem 0;
+    padding: .25rem 0;
 
     border: 0;
     border-top: 2px solid #000;
   }
 
   legend {
-    padding-right: .35rem;
+    padding-right: .25rem;
   }
 
 }
@@ -956,7 +956,7 @@ legend {
 
   html {
     font-size: 120%;
-    line-height: 1.5;
+    line-height: 1;
   }
 
   h1,
@@ -979,66 +979,66 @@ legend {
   table,
   caption,
   menu {
-    margin: 0 0 1.5rem;
+    margin: 0 0 1rem;
   }
 
   .tenamega {
-    font-size: 198.959rem;
-    line-height: 258.75rem;
+    font-size: 175.9219rem;
+    line-height: 228.75rem;
   }
 
   .tenakilo {
-    font-size: 122.966rem;
-    line-height: 160.125rem;
+    font-size: 109.9512rem;
+    line-height: 143rem;
   }
 
   .tena {
-    font-size: 75.9988rem;
-    line-height: 99rem;
+    font-size: 68.7195rem;
+    line-height: 89.5rem;
   }
 
   .nina {
-    font-size: 46.9708rem;
-    line-height: 61.125rem;
+    font-size: 42.9497rem;
+    line-height: 56rem;
   }
 
   .yotta {
-    font-size: 29.0302rem;
-    line-height: 37.875rem;
+    font-size: 26.8435rem;
+    line-height: 35rem;
   }
 
   .zetta {
-    font-size: 17.942rem;
-    line-height: 23.625rem;
+    font-size: 16.7772rem;
+    line-height: 22rem;
   }
 
   h1,
   .exa {
-    font-size: 11.089rem;
-    line-height: 14.625rem;
+    font-size: 10.4858rem;
+    line-height: 13.75rem;
   }
 
   h2,
   .peta {
-    font-size: 6.8535rem;
-    line-height: 9rem;
+    font-size: 6.5536rem;
+    line-height: 8.75rem;
   }
 
   h3,
   .tera {
-    font-size: 4.2358rem;
-    line-height: 5.625rem;
+    font-size: 4.096rem;
+    line-height: 5.5rem;
   }
 
   h4,
   .giga {
-    font-size: 2.6179rem;
-    line-height: 3.75rem;
+    font-size: 2.56rem;
+    line-height: 3.5rem;
   }
 
   h5,
   .mega {
-    font-size: 1.618rem;
+    font-size: 1.6rem;
     line-height: 2.25rem;
   }
 
@@ -1052,23 +1052,23 @@ legend {
 
   small,
   .milli {
-    font-size: .618rem;
-    line-height: 1.125rem;
+    font-size: .625rem;
+    line-height: 1rem;
   }
 
   .micro {
-    font-size: .382rem;
-    line-height: .375rem;
+    font-size: .3906rem;
+    line-height: .5rem;
   }
 
   .nano {
-    font-size: .2361rem;
-    line-height: .375rem;
+    font-size: .2441rem;
+    line-height: .25rem;
   }
 
   .pico {
-    font-size: .1459rem;
-    line-height: rem;
+    font-size: .1526rem;
+    line-height: .25rem;
   }
 
   ul,
@@ -1094,19 +1094,19 @@ legend {
   }
 
   table {
-    margin-left: -.375rem;
-    margin-right: -.375rem;
-    width: calc(100% + .375rem + .375rem);
+    margin-left: -.25rem;
+    margin-right: -.25rem;
+    width: calc(100% + .25rem + .25rem);
   }
 
   input,
   option,
   select {
-    height: calc(1.5rem + .1875rem + .1875rem);
+    height: calc(1rem + .125rem + .125rem);
   }
 
   [type="color"] {
-    width: calc(1.5rem + .1875rem + .1875rem);
+    width: calc(1rem + .125rem + .125rem);
   }
 
   [type="checkbox"],
@@ -1116,7 +1116,7 @@ legend {
   }
 
   .push {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
   }
 
   .push-none,
@@ -1126,138 +1126,138 @@ legend {
 
   .push-double,
   .push-2 {
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
   }
 
   .push-three-quarters,
   .push-3-4 {
-    margin-bottom: 1.125rem;
+    margin-bottom: .75rem;
   }
 
   .push-half,
   .push-1-2 {
-    margin-bottom: .75rem;
+    margin-bottom: .5rem;
   }
 
   .push-quarter,
   .push-1-4 {
-    margin-bottom: .375rem;
+    margin-bottom: .25rem;
   }
 
   .push-eighth,
   .push-1-8 {
-    margin-bottom: .1875rem;
+    margin-bottom: .125rem;
   }
 
   .push-right-eighth,
   .push-r-1-8 {
-    margin-right: .1875rem;
+    margin-right: .125rem;
   }
 
   .push-right-quarter,
   .push-r-1-4 {
-    margin-right: .375rem;
+    margin-right: .25rem;
   }
 
   .push-right-half,
   .push-r-1-2 {
-    margin-right: .75rem;
+    margin-right: .5rem;
   }
 
   .push-right-three-quarters,
   .push-r-3-4 {
-    margin-right: 1.125rem;
+    margin-right: .75rem;
   }
 
   .push-right,
   .push-r {
-    margin-right: 1.5rem;
+    margin-right: 1rem;
   }
 
   .pad-top,
   .pad-t {
-    padding-top: 1.5rem;
+    padding-top: 1rem;
   }
 
   .pad-bottom,
   .pad-b {
-    padding-bottom: 1.5rem;
+    padding-bottom: 1rem;
   }
 
   .pad-top-double,
   .pad-t-2 {
-    padding-top: 3rem;
+    padding-top: 2rem;
   }
 
   .pad-bottom-double,
   .pad-b-2 {
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
   }
 
   .pad-top-three-quarters,
   .pad-t-3-4 {
-    padding-top: 1.125rem;
+    padding-top: .75rem;
   }
 
   .pad-bottom-three-quarters,
   .pad-b-3-4 {
-    padding-bottom: 1.125rem;
+    padding-bottom: .75rem;
   }
 
   .pad-top-half,
   .pad-t-1-2 {
-    padding-top: .75rem;
+    padding-top: .5rem;
   }
 
   .pad-bottom-half,
   .pad-b-1-2 {
-    padding-bottom: .75rem;
+    padding-bottom: .5rem;
   }
 
   .pad-top-quarter,
   .pad-t-1-4 {
-    padding-top: .375rem;
+    padding-top: .25rem;
   }
 
   .pad-bottom-quarter,
   .pad-b-1-4 {
-    padding-bottom: .375rem;
+    padding-bottom: .25rem;
   }
 
   .pad-top-eighth,
   .pad-t-1-8 {
-    padding-top: .1875rem;
+    padding-top: .125rem;
   }
 
   .pad-bottom-eighth,
   .pad-b-1-8 {
-    padding-bottom: .1875rem;
+    padding-bottom: .125rem;
   }
 
   .island {
-    padding: 1.5rem;
+    padding: 1rem;
   }
 
   .island-double,
   .island-2 {
-    padding: 3rem;
+    padding: 2rem;
   }
 
   .island-three-quarters,
   .island-3-4 {
-    padding: 1.125rem;
+    padding: .75rem;
   }
 
   .island-half,
   .island-1-2 {
-    padding: .75rem;
+    padding: .5rem;
   }
 
   .island-quarter,
   .island-1-4,
   td,
   table th {
-    padding: .375rem;
+    padding: .25rem;
   }
 
   .island-eighth,
@@ -1265,106 +1265,106 @@ legend {
   input:not([type="checkbox"]),
   input:not([type="radio"]),
   textarea {
-    padding: .1875rem;
+    padding: .125rem;
   }
 
   .gutter {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .gutter-double,
   .gutter-2 {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .gutter-three-quarters,
   .gutter-3-4 {
-    padding-left: 1.125rem;
-    padding-right: 1.125rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
   }
 
   .gutter-half,
   .gutter-1-2 {
-    padding-left: .75rem;
-    padding-right: .75rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
   }
 
   .gutter-quarter,
   .gutter-1-4,
   caption {
-    padding-left: .375rem;
-    padding-right: .375rem;
+    padding-left: .25rem;
+    padding-right: .25rem;
   }
 
   .gutter-eighth,
   .gutter-1-8 {
-    padding-left: .1875rem;
-    padding-right: .1875rem;
+    padding-left: .125rem;
+    padding-right: .125rem;
   }
 
   .i-1 {
-    height: 1.5rem;
-    width: 1.5rem;
+    height: 1rem;
+    width: 1rem;
   }
 
   .i-3-4 {
-    height: 1.125rem;
-    width: 1.125rem;
-  }
-
-  .i-1-2 {
     height: .75rem;
     width: .75rem;
   }
 
+  .i-1-2 {
+    height: .5rem;
+    width: .5rem;
+  }
+
   .i-1-4 {
-    height: .375rem;
-    width: .375rem;
+    height: .25rem;
+    width: .25rem;
   }
 
   .i-1-8 {
-    height: .1875rem;
-    width: .1875rem;
+    height: .125rem;
+    width: .125rem;
   }
 
   .i-1-1-2,
   .i-3-2 {
-    height: 2.25rem;
-    width: 2.25rem;
+    height: 1.5rem;
+    width: 1.5rem;
   }
 
   .i-1-1-4,
   .i-5-4 {
-    height: 1.875rem;
-    width: 1.875rem;
+    height: 1.25rem;
+    width: 1.25rem;
   }
 
   .i-1-3-4,
   .i-7-4 {
-    height: 2.625rem;
-    width: 2.625rem;
+    height: 1.75rem;
+    width: 1.75rem;
   }
 
   .i-2 {
-    height: 3rem;
-    width: 3rem;
+    height: 2rem;
+    width: 2rem;
   }
 
   select {
-    padding: 0 .1875rem;
+    padding: 0 .125rem;
   }
 
   fieldset {
-    padding: .375rem 0;
+    padding: .25rem 0;
 
     border: 0;
     border-top: 2px solid #000;
   }
 
   legend {
-    padding-right: .375rem;
+    padding-right: .25rem;
   }
 
 }
@@ -1373,7 +1373,7 @@ legend {
 
   html {
     font-size: 130%;
-    line-height: 1.5;
+    line-height: 1;
   }
 
   h1,
@@ -1396,66 +1396,66 @@ legend {
   table,
   caption,
   menu {
-    margin: 0 0 1.5rem;
+    margin: 0 0 1rem;
   }
 
   .tenamega {
-    font-size: 198.959rem;
-    line-height: 258.75rem;
+    font-size: 175.9219rem;
+    line-height: 228.75rem;
   }
 
   .tenakilo {
-    font-size: 122.966rem;
-    line-height: 160.125rem;
+    font-size: 109.9512rem;
+    line-height: 143rem;
   }
 
   .tena {
-    font-size: 75.9988rem;
-    line-height: 99rem;
+    font-size: 68.7195rem;
+    line-height: 89.5rem;
   }
 
   .nina {
-    font-size: 46.9708rem;
-    line-height: 61.125rem;
+    font-size: 42.9497rem;
+    line-height: 56rem;
   }
 
   .yotta {
-    font-size: 29.0302rem;
-    line-height: 37.875rem;
+    font-size: 26.8435rem;
+    line-height: 35rem;
   }
 
   .zetta {
-    font-size: 17.942rem;
-    line-height: 23.625rem;
+    font-size: 16.7772rem;
+    line-height: 22rem;
   }
 
   h1,
   .exa {
-    font-size: 11.089rem;
-    line-height: 14.625rem;
+    font-size: 10.4858rem;
+    line-height: 13.75rem;
   }
 
   h2,
   .peta {
-    font-size: 6.8535rem;
-    line-height: 9rem;
+    font-size: 6.5536rem;
+    line-height: 8.75rem;
   }
 
   h3,
   .tera {
-    font-size: 4.2358rem;
-    line-height: 5.625rem;
+    font-size: 4.096rem;
+    line-height: 5.5rem;
   }
 
   h4,
   .giga {
-    font-size: 2.6179rem;
-    line-height: 3.75rem;
+    font-size: 2.56rem;
+    line-height: 3.5rem;
   }
 
   h5,
   .mega {
-    font-size: 1.618rem;
+    font-size: 1.6rem;
     line-height: 2.25rem;
   }
 
@@ -1469,23 +1469,23 @@ legend {
 
   small,
   .milli {
-    font-size: .618rem;
-    line-height: 1.125rem;
+    font-size: .625rem;
+    line-height: 1rem;
   }
 
   .micro {
-    font-size: .382rem;
-    line-height: .375rem;
+    font-size: .3906rem;
+    line-height: .5rem;
   }
 
   .nano {
-    font-size: .2361rem;
-    line-height: .375rem;
+    font-size: .2441rem;
+    line-height: .25rem;
   }
 
   .pico {
-    font-size: .1459rem;
-    line-height: rem;
+    font-size: .1526rem;
+    line-height: .25rem;
   }
 
   ul,
@@ -1511,19 +1511,19 @@ legend {
   }
 
   table {
-    margin-left: -.375rem;
-    margin-right: -.375rem;
-    width: calc(100% + .375rem + .375rem);
+    margin-left: -.25rem;
+    margin-right: -.25rem;
+    width: calc(100% + .25rem + .25rem);
   }
 
   input,
   option,
   select {
-    height: calc(1.5rem + .1875rem + .1875rem);
+    height: calc(1rem + .125rem + .125rem);
   }
 
   [type="color"] {
-    width: calc(1.5rem + .1875rem + .1875rem);
+    width: calc(1rem + .125rem + .125rem);
   }
 
   [type="checkbox"],
@@ -1533,7 +1533,7 @@ legend {
   }
 
   .push {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
   }
 
   .push-none,
@@ -1543,138 +1543,138 @@ legend {
 
   .push-double,
   .push-2 {
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
   }
 
   .push-three-quarters,
   .push-3-4 {
-    margin-bottom: 1.125rem;
+    margin-bottom: .75rem;
   }
 
   .push-half,
   .push-1-2 {
-    margin-bottom: .75rem;
+    margin-bottom: .5rem;
   }
 
   .push-quarter,
   .push-1-4 {
-    margin-bottom: .375rem;
+    margin-bottom: .25rem;
   }
 
   .push-eighth,
   .push-1-8 {
-    margin-bottom: .1875rem;
+    margin-bottom: .125rem;
   }
 
   .push-right-eighth,
   .push-r-1-8 {
-    margin-right: .1875rem;
+    margin-right: .125rem;
   }
 
   .push-right-quarter,
   .push-r-1-4 {
-    margin-right: .375rem;
+    margin-right: .25rem;
   }
 
   .push-right-half,
   .push-r-1-2 {
-    margin-right: .75rem;
+    margin-right: .5rem;
   }
 
   .push-right-three-quarters,
   .push-r-3-4 {
-    margin-right: 1.125rem;
+    margin-right: .75rem;
   }
 
   .push-right,
   .push-r {
-    margin-right: 1.5rem;
+    margin-right: 1rem;
   }
 
   .pad-top,
   .pad-t {
-    padding-top: 1.5rem;
+    padding-top: 1rem;
   }
 
   .pad-bottom,
   .pad-b {
-    padding-bottom: 1.5rem;
+    padding-bottom: 1rem;
   }
 
   .pad-top-double,
   .pad-t-2 {
-    padding-top: 3rem;
+    padding-top: 2rem;
   }
 
   .pad-bottom-double,
   .pad-b-2 {
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
   }
 
   .pad-top-three-quarters,
   .pad-t-3-4 {
-    padding-top: 1.125rem;
+    padding-top: .75rem;
   }
 
   .pad-bottom-three-quarters,
   .pad-b-3-4 {
-    padding-bottom: 1.125rem;
+    padding-bottom: .75rem;
   }
 
   .pad-top-half,
   .pad-t-1-2 {
-    padding-top: .75rem;
+    padding-top: .5rem;
   }
 
   .pad-bottom-half,
   .pad-b-1-2 {
-    padding-bottom: .75rem;
+    padding-bottom: .5rem;
   }
 
   .pad-top-quarter,
   .pad-t-1-4 {
-    padding-top: .375rem;
+    padding-top: .25rem;
   }
 
   .pad-bottom-quarter,
   .pad-b-1-4 {
-    padding-bottom: .375rem;
+    padding-bottom: .25rem;
   }
 
   .pad-top-eighth,
   .pad-t-1-8 {
-    padding-top: .1875rem;
+    padding-top: .125rem;
   }
 
   .pad-bottom-eighth,
   .pad-b-1-8 {
-    padding-bottom: .1875rem;
+    padding-bottom: .125rem;
   }
 
   .island {
-    padding: 1.5rem;
+    padding: 1rem;
   }
 
   .island-double,
   .island-2 {
-    padding: 3rem;
+    padding: 2rem;
   }
 
   .island-three-quarters,
   .island-3-4 {
-    padding: 1.125rem;
+    padding: .75rem;
   }
 
   .island-half,
   .island-1-2 {
-    padding: .75rem;
+    padding: .5rem;
   }
 
   .island-quarter,
   .island-1-4,
   td,
   table th {
-    padding: .375rem;
+    padding: .25rem;
   }
 
   .island-eighth,
@@ -1682,106 +1682,106 @@ legend {
   input:not([type="checkbox"]),
   input:not([type="radio"]),
   textarea {
-    padding: .1875rem;
+    padding: .125rem;
   }
 
   .gutter {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .gutter-double,
   .gutter-2 {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .gutter-three-quarters,
   .gutter-3-4 {
-    padding-left: 1.125rem;
-    padding-right: 1.125rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
   }
 
   .gutter-half,
   .gutter-1-2 {
-    padding-left: .75rem;
-    padding-right: .75rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
   }
 
   .gutter-quarter,
   .gutter-1-4,
   caption {
-    padding-left: .375rem;
-    padding-right: .375rem;
+    padding-left: .25rem;
+    padding-right: .25rem;
   }
 
   .gutter-eighth,
   .gutter-1-8 {
-    padding-left: .1875rem;
-    padding-right: .1875rem;
+    padding-left: .125rem;
+    padding-right: .125rem;
   }
 
   .i-1 {
-    height: 1.5rem;
-    width: 1.5rem;
+    height: 1rem;
+    width: 1rem;
   }
 
   .i-3-4 {
-    height: 1.125rem;
-    width: 1.125rem;
-  }
-
-  .i-1-2 {
     height: .75rem;
     width: .75rem;
   }
 
+  .i-1-2 {
+    height: .5rem;
+    width: .5rem;
+  }
+
   .i-1-4 {
-    height: .375rem;
-    width: .375rem;
+    height: .25rem;
+    width: .25rem;
   }
 
   .i-1-8 {
-    height: .1875rem;
-    width: .1875rem;
+    height: .125rem;
+    width: .125rem;
   }
 
   .i-1-1-2,
   .i-3-2 {
-    height: 2.25rem;
-    width: 2.25rem;
+    height: 1.5rem;
+    width: 1.5rem;
   }
 
   .i-1-1-4,
   .i-5-4 {
-    height: 1.875rem;
-    width: 1.875rem;
+    height: 1.25rem;
+    width: 1.25rem;
   }
 
   .i-1-3-4,
   .i-7-4 {
-    height: 2.625rem;
-    width: 2.625rem;
+    height: 1.75rem;
+    width: 1.75rem;
   }
 
   .i-2 {
-    height: 3rem;
-    width: 3rem;
+    height: 2rem;
+    width: 2rem;
   }
 
   select {
-    padding: 0 .1875rem;
+    padding: 0 .125rem;
   }
 
   fieldset {
-    padding: .375rem 0;
+    padding: .25rem 0;
 
     border: 0;
     border-top: 2px solid #000;
   }
 
   legend {
-    padding-right: .375rem;
+    padding-right: .25rem;
   }
 
 }
