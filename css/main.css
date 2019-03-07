@@ -3,12 +3,12 @@ html {
 }
 
 p {
-  font-family: "Cormorant", serif;
+  font-family: Cormorant, serif;
   color: #ff4b4a;
 }
 
 h1, .rise {
-  font-family: "Rubik", sans-serif;
+  font-family: Rubik, sans-serif;
   color: #fff;
 }
 
@@ -27,13 +27,7 @@ h1, .rise {
 }
 
 .author {
- display: none;
-}
-
-
-@media only screen and (min-width: 38em) {
-
-
+  display: none;
 }
 
 @media only screen and (min-width: 60em) {
@@ -43,7 +37,7 @@ h1, .rise {
   }
 
   .person {
-  display: none
+    display: none;
   }
 
   .author {
