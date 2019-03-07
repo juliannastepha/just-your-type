@@ -1,0 +1,52 @@
+html {
+  background-color: #ffdf44;
+}
+
+p {
+  font-family: "Cormorant", serif;
+  color: #ff4b4a;
+}
+
+.poem {
+  text-align: left;
+  max-width: 50%;
+}
+
+.author {
+ visibility: hidden;
+}
+
+h1, h2 {
+  font-family: "Rubik", sans-serif;
+  color: #fff;
+  line-height: 17rem;
+}
+
+.absolute {
+  left: 0;
+  top: 0;
+}
+
+.rise {
+  visibility: hidden;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .rise {
+    visibility: visible;
+  }
+
+  .person {
+    visibility: hidden;
+  }
+
+  .author {
+    visibility: visible;
+  }
+
+  .poem {
+    max-width: 45%;
+  }
+
+}
