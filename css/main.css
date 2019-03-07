@@ -30,15 +30,9 @@ h1, .rise {
  display: none;
 }
 
-.yot {
-  line-height: 10rem;
-}
 
 @media only screen and (min-width: 38em) {
 
-  .yot {
-    line-height: 15rem;
-  }
 
 }
 
